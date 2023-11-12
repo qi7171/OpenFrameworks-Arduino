@@ -1,8 +1,6 @@
 # Coding2_FInal_project
 
 ## Butterfly
-
-### GitHub Link: https://git.arts.ac.uk/22018506/Coding2_FInal_project
 ### Video Link: https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1e8e7253-0e17-4ed2-b152-afc7017a6591
 ### code notes: https://git.arts.ac.uk/22018506/Coding2_FInal_project/blob/main/src/ofApp.cpp
 
