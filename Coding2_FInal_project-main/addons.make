@@ -1,0 +1,5 @@
+ofxGui
+ofxMaxim
+ofxOpenCv
+ofxOsc
+ofxVectorGraphics
